@@ -30,7 +30,9 @@ Hi, I'm [Felipe Fong!](https://www.linkedin.com/in/felipesu/), Full Stack Develo
 
 ### Database
 <p align="left">
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="80" height="80"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"  width="90" height="90"/> </a>
+<a href="#" target="_blank"><img src="icons/mongodb-icon.svg" alt="MongoDB" width="90" height="90"/> </a>
 </p>
 
 ### Devops
